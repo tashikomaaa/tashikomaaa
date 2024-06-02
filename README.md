@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on [some pico-8 game](https://www.lexaloffle.com/bbs/widget.php?pid=gurda)
 
-- 📫 How to reach me **tashikomaa@gmail.com**
-
-- 📄 Know about my experiences [http://cv.tashikomaaa.com](http://cv.tashikomaaa.com)
+- 📫 How to reach me **moutarlier.al@gmail.com**
 
 - ⚡ Fun fact **i pass a lot of time to shave some yak !**
 
