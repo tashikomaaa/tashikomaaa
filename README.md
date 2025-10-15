@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aldwin Moutarlier</h1>
-<h2 align="center"> My personal blog <a href="https://tashikomaaa.github.io/corvusblog/" target="_blank" >here</a></h2>
 <h3 align="center">A passionate frontend developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tashikomaaa&label=Profile%20views&color=0e75b6&style=flat" alt="tashikomaaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tashikomaaa" alt="tashikomaaa" /></a> </p>
 
-- 🔭 I’m currently working on [some pico-8 game](https://www.lexaloffle.com/bbs/widget.php?pid=gurda)
-
-- 📫 How to reach me **moutarlier.al@gmail.com**
+- 📫 How to reach me **admin@assoverse.app**
 
 - ⚡ Fun fact **i pass a lot of time to shave some yak !**
 
