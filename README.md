@@ -19,6 +19,8 @@ Currently building **Assoverse**, a platform empowering associations and recruit
 ⚙️ From database design to frontend polish — I care about every pixel and every query.  
 🧠 10 years of experience, still learning every single day.  
 
+My personal blog [here](https://slashcenter.net)
+
 ---
 
 ### 🧰 Tech Stack
