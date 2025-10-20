@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Aldwin Moutarlier</h1>
-<h3 align="center">Full-Stack Engineer • Founder & CEO at <a href="https://github.com/Assoverse" target="_blank">Assoverse</a></h3>
+<h3 align="center">Full-Stack Engineer • Founder & CTO at <a href="https://github.com/Assoverse" target="_blank">Assoverse</a></h3>
 
 <p align="center">
   <a href="https://assoverse.app" target="_blank"><img src="https://img.shields.io/badge/Website-assoverse.app-181717?style=for-the-badge&logo=vercel" /></a>
