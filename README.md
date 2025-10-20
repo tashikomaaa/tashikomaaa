@@ -20,7 +20,6 @@ Currently building **Assoverse**, a platform empowering associations and recruit
 🧠 10 years of experience, still learning every single day.  
 
 My personal blog [here](https://slashcenter.net)
-![Aperçu du site](https://s.wordpress.com/mshots/v1/https://slashcenter.net?w=800)
 
 ---
 
