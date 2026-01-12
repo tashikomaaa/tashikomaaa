@@ -60,7 +60,7 @@ Currently building **Assoverse**, a platform empowering associations and recruit
 
 <p align="center">
   <a href="https://linkedin.com/in/aldwin-moutarlier-77880113b" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="mailto:admin@assoverse.app" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="mailto:moutarlier.al@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
   <a href="https://github.com/Assoverse" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </p>
 
