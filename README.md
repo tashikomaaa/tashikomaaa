@@ -5,7 +5,7 @@
   <a href="https://slashcenter.net" target="_blank"><img src="https://img.shields.io/badge/Website-slashcenter.net-181717?style=for-the-badge&logo=vercel" /></a>
   <a href="https://assoverse.app" target="_blank"><img src="https://img.shields.io/badge/Website-assoverse.app-181717?style=for-the-badge&logo=vercel" /></a>
   <a href="https://linkedin.com/in/aldwin-moutarlier-77880113b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Aldwin%20Moutarlier-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:admin@assoverse.app"><img src="https://img.shields.io/badge/Contact-admin@assoverse.app-34A853?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:moutarlier.al@gmail.com"><img src="https://img.shields.io/badge/Contact-moutarlier.al@gmail.com-34A853?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
