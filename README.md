@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hey, I'm Aldwin Moutarlier</h1>
 <h3 align="center">Full-Stack Engineer • Founder & CTO at <a href="https://github.com/Assoverse" target="_blank">Assoverse</a></h3>
 
-<p align="center">
-  <a href="https://slashcenter.net" target="_blank"><img src="https://img.shields.io/badge/Website-slashcenter.net-181717?style=for-the-badge&logo=vercel" /></a>
+<p>
   <a href="https://assoverse.app" target="_blank"><img src="https://img.shields.io/badge/Website-assoverse.app-181717?style=for-the-badge&logo=vercel" /></a>
   <a href="https://linkedin.com/in/aldwin-moutarlier-77880113b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Aldwin%20Moutarlier-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:moutarlier.al@gmail.com"><img src="https://img.shields.io/badge/Contact-moutarlier.al@gmail.com-34A853?style=for-the-badge&logo=gmail" /></a>
@@ -18,8 +17,6 @@ Currently building **Assoverse**, a platform empowering associations and recruit
 💡 Passionate about product design, developer experience, and the intersection between **tech and human workflow**.  
 ⚙️ From database design to frontend polish — I care about every pixel and every query.  
 🧠 10 years of experience, still learning every single day.  
-
-<h1 align="center">My personal blog <a href="https://slashcenter.net" target="_blank">HERE</a></h1>
 
 ---
 
