@@ -46,16 +46,14 @@ const aldwin = {
 
 <img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/v2/sec-open-source.png" width="100%" alt="03 — Open source" />
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/tashikomaaa/neomongo.nvim"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/v2/proj-neomongo.png" width="100%" alt="neomongo.nvim — manage, query and explore MongoDB without ever leaving your editor. Lua, Neovim." /></a></td>
-<td width="50%"><a href="https://github.com/tashikomaaa/aapi"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/v2/proj-aapi.png" width="100%" alt="aapi — scaffolds a full Apollo GraphQL + Express + MongoDB API in seconds. Node CLI." /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/tashikomaaa/palpatine"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/v2/proj-palpatine.png" width="100%" alt="palpatine — fleet-command TUI for SSH hosts. Bash." /></a></td>
-<td width="50%"><a href="https://github.com/Assoverse/Orion"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/v2/proj-orion.png" width="100%" alt="orion — Kubernetes for JS developers. TypeScript." /></a></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/tashikomaaa/neomongo.nvim"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/v2/proj-neomongo.png" width="49%" alt="neomongo.nvim — manage, query and explore MongoDB without ever leaving your editor. Lua, Neovim." /></a>
+  <a href="https://github.com/tashikomaaa/aapi"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/v2/proj-aapi.png" width="49%" alt="aapi — scaffolds a full Apollo GraphQL + Express + MongoDB API in seconds. Node CLI." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/tashikomaaa/palpatine"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/v2/proj-palpatine.png" width="49%" alt="palpatine — fleet-command TUI for SSH hosts. Bash." /></a>
+  <a href="https://github.com/Assoverse/Orion"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/v2/proj-orion.png" width="49%" alt="orion — Kubernetes for JS developers. TypeScript." /></a>
+</p>
 
 <br />
 
