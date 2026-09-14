@@ -7,10 +7,6 @@
 <h3 align="center">Full-Stack Engineer · Founder &amp; CTO at <a href="https://assoverse.com">Assoverse</a></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=FF0080&center=true&vCenter=true&width=680&lines=10%2B+years+shipping+products+%F0%9F%9A%80;React+%E2%80%A2+Node+%E2%80%A2+GraphQL+%E2%80%A2+MongoDB+%E2%80%A2+Lua;Building+Assoverse%2C+a+SaaS+for+associations;Neovim+addict+%26+open-source+tinkerer+%F0%9F%A7%A9" alt="" />
-</p>
-
-<p align="center">
   <a href="https://assoverse.com"><img src="https://img.shields.io/badge/🌐%20assoverse.com-8A2BE2?style=for-the-badge&labelColor=0d1117" alt="website" /></a>
   <a href="https://linkedin.com/in/aldwin-moutarlier-77880113b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="linkedin" /></a>
   <a href="mailto:moutarlier.al@gmail.com"><img src="https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="email" /></a>
@@ -115,12 +111,12 @@ Bash **fleet-command TUI** for SSH hosts — scan systems, run scripted orders, 
 </td>
     <td width="50%" valign="top">
 
-### 🔥 [ParallaxFireWatch](https://github.com/tashikomaaa/ParallaxFireWatch)
-A **pure-CSS Firewatch parallax** scene. No JS, just layers and patience.
+### 🛸 [Orion](https://github.com/Assoverse/Orion)
+**Kubernetes for JS developers** — control plane, agent, CLI and dashboard to orchestrate JS services without containers.
 
-<img src="https://img.shields.io/github/stars/tashikomaaa/ParallaxFireWatch?style=flat-square&color=FF0080&labelColor=0d1117" />
-<img src="https://img.shields.io/github/languages/top/tashikomaaa/ParallaxFireWatch?style=flat-square&color=8A2BE2&labelColor=0d1117" />
-<img src="https://img.shields.io/github/last-commit/tashikomaaa/ParallaxFireWatch?style=flat-square&color=00E5FF&labelColor=0d1117" />
+<img src="https://img.shields.io/github/stars/Assoverse/Orion?style=flat-square&color=FF0080&labelColor=0d1117" />
+<img src="https://img.shields.io/github/languages/top/Assoverse/Orion?style=flat-square&color=8A2BE2&labelColor=0d1117" />
+<img src="https://img.shields.io/github/last-commit/Assoverse/Orion?style=flat-square&color=00E5FF&labelColor=0d1117" />
 
 </td>
   </tr>
