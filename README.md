@@ -48,10 +48,10 @@ const aldwin = {
 };
 ```
 
-**▸** I care about the whole chain — from the index on a Mongo collection to the last pixel of the empty state.
-**▸** 10 years in, still learning something every single day.
-**▸** Plugging AI into my delivery pipeline to ship faster *without* shipping garbage.
-**▸** I build my own tools when the existing ones annoy me. See `02`.
+- **▸** I care about the whole chain — from the index on a Mongo collection to the last pixel of the empty state.
+- **▸** 10 years in, still learning something every single day.
+- **▸** Plugging AI into my delivery pipeline to ship faster *without* shipping garbage.
+- **▸** I build my own tools when the existing ones annoy me. See `03`.
 
 ---
 
@@ -60,7 +60,7 @@ const aldwin = {
 > ### ▸ ASSOVERSE
 > Modern, data-driven tools for **associations and recruiters** — member management, recruitment pipelines, analytics — without the enterprise price tag.
 
-| | |
+| FIELD | VALUE |
 |---|---|
 | **STACK** | React · Apollo GraphQL · Node · MongoDB |
 | **FOCUS** | DX, CI, automation pipelines |
