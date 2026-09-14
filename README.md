@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/banner.png?v=5" width="100%" alt="Aldwin Moutarlier — Full-Stack Engineer · Founder &amp; CTO at Assoverse · Paris, France" />
+  <img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/banner-2.png" width="100%" alt="Aldwin Moutarlier — Full-Stack Engineer · Founder &amp; CTO at Assoverse · Paris, France" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/sec-who.png?v=5" width="100%" alt="01 — Who" />
+<img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/sec-who.png" width="100%" alt="01 — Who" />
 
 ```ts
 const aldwin = {
@@ -36,47 +36,47 @@ const aldwin = {
 
 <br />
 
-<img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/sec-building.png?v=5" width="100%" alt="02 — Building" />
+<img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/sec-building.png" width="100%" alt="02 — Building" />
 
 <p align="center">
-  <a href="https://assoverse.com"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/assoverse.png?v=5" width="100%" alt="Assoverse — modern, data-driven tools for associations and recruiters. React, Apollo GraphQL, Node, MongoDB. Bootstrapped, shipped, in production." /></a>
+  <a href="https://assoverse.com"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/assoverse.png" width="100%" alt="Assoverse — modern, data-driven tools for associations and recruiters. React, Apollo GraphQL, Node, MongoDB. Bootstrapped, shipped, in production." /></a>
 </p>
 
 <br />
 
-<img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/sec-open-source.png?v=5" width="100%" alt="03 — Open source" />
+<img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/sec-open-source.png" width="100%" alt="03 — Open source" />
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/tashikomaaa/neomongo.nvim"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/proj-neomongo.png?v=5" width="100%" alt="neomongo.nvim — manage, query and explore MongoDB without ever leaving your editor. Lua, Neovim." /></a></td>
-<td width="50%"><a href="https://github.com/tashikomaaa/aapi"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/proj-aapi.png?v=5" width="100%" alt="aapi — scaffolds a full Apollo GraphQL + Express + MongoDB API in seconds. Node CLI." /></a></td>
+<td width="50%"><a href="https://github.com/tashikomaaa/neomongo.nvim"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/proj-neomongo.png" width="100%" alt="neomongo.nvim — manage, query and explore MongoDB without ever leaving your editor. Lua, Neovim." /></a></td>
+<td width="50%"><a href="https://github.com/tashikomaaa/aapi"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/proj-aapi.png" width="100%" alt="aapi — scaffolds a full Apollo GraphQL + Express + MongoDB API in seconds. Node CLI." /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/tashikomaaa/palpatine"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/proj-palpatine.png?v=5" width="100%" alt="palpatine — fleet-command TUI for SSH hosts. Bash." /></a></td>
-<td width="50%"><a href="https://github.com/Assoverse/Orion"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/proj-orion.png?v=5" width="100%" alt="orion — Kubernetes for JS developers. TypeScript." /></a></td>
+<td width="50%"><a href="https://github.com/tashikomaaa/palpatine"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/proj-palpatine.png" width="100%" alt="palpatine — fleet-command TUI for SSH hosts. Bash." /></a></td>
+<td width="50%"><a href="https://github.com/Assoverse/Orion"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/proj-orion.png" width="100%" alt="orion — Kubernetes for JS developers. TypeScript." /></a></td>
 </tr>
 </table>
 
 <br />
 
-<img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/sec-stack.png?v=5" width="100%" alt="04 — Stack" />
+<img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/sec-stack.png" width="100%" alt="04 — Stack" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/stack.png?v=5" width="100%" alt="TypeScript, JavaScript, React, Next.js, Node, Express, GraphQL, Apollo, MongoDB, PostgreSQL, Redis, Docker, Linux, Bash, Lua, Neovim, Git, CI/CD, Figma, Tailwind, Vite" />
+  <img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/stack.png" width="100%" alt="TypeScript, JavaScript, React, Next.js, Node, Express, GraphQL, Apollo, MongoDB, PostgreSQL, Redis, Docker, Linux, Bash, Lua, Neovim, Git, CI/CD, Figma, Tailwind, Vite" />
 </p>
 
 <br />
 
-<img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/sec-contact.png?v=5" width="100%" alt="05 — Contact" />
+<img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/sec-contact.png" width="100%" alt="05 — Contact" />
 
 <p align="center">
-  <a href="mailto:moutarlier.al@gmail.com"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/btn-email.png?v=5" height="66" alt="Email moutarlier.al@gmail.com" /></a>
-  <a href="https://linkedin.com/in/aldwin-moutarlier-77880113b"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/btn-linkedin.png?v=5" height="66" alt="LinkedIn" /></a>
-  <a href="https://assoverse.com"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/btn-site.png?v=5" height="66" alt="assoverse.com" /></a>
+  <a href="mailto:moutarlier.al@gmail.com"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/btn-email.png" height="66" alt="Email moutarlier.al@gmail.com" /></a>
+  <a href="https://linkedin.com/in/aldwin-moutarlier-77880113b"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/btn-linkedin.png" height="66" alt="LinkedIn" /></a>
+  <a href="https://assoverse.com"><img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/btn-site.png" height="66" alt="assoverse.com" /></a>
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/quote.png?v=5" width="100%" alt="Build systems that last. Ship products that matter. Open to open-source collaborations." />
+  <img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/quote-2.png" width="100%" alt="Build systems that last. Ship products that matter. Open to open-source collaborations." />
 </p>
