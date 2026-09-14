@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/banner.png?v=3" width="100%" alt="Aldwin Moutarlier — Full-Stack Engineer · Founder &amp; CTO at Assoverse · Paris, France" />
+  <img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/banner.png?v=4" width="100%" alt="Aldwin Moutarlier — Full-Stack Engineer · Founder &amp; CTO at Assoverse · Paris, France" />
 </p>
 
 <p align="center">
@@ -78,5 +78,5 @@ const aldwin = {
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/quote.png?v=3" width="100%" alt="Build systems that last. Ship products that matter. Open to freelance, partnerships and open-source collabs." />
+  <img src="https://raw.githubusercontent.com/tashikomaaa/tashikomaaa/main/assets/quote.png?v=4" width="100%" alt="Build systems that last. Ship products that matter. Open to freelance, partnerships and open-source collabs." />
 </p>
