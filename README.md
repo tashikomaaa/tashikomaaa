@@ -156,14 +156,15 @@ Bash **fleet-command TUI** for SSH hosts — scan systems, run scripted orders, 
 
 ---
 
-## █ 05 — NUMBERS
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tashikomaaa&border=000000&border_radius=0&background=FFD600&stroke=000000&ring=FF2E93&fire=FF2E93&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&disable_animations=true" alt="streak" />
-</p>
+## █ 05 — CONTRIBUTIONS
 
 <p align="center">
   <img src="https://ghchart.rshah.org/FF2E93/tashikomaaa" width="92%" alt="contribution grid" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/tashikomaaa?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=FFD600" alt="followers" />
+  <img src="https://img.shields.io/github/stars/tashikomaaa?affiliations=OWNER&style=for-the-badge&label=TOTAL%20STARS&labelColor=000000&color=FF2E93" alt="stars" />
 </p>
 
 ---
